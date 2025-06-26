@@ -1,14 +1,6 @@
 ## 🎥 Demo Video
+[![Watch Video](https://res.cloudinary.com/dgnn8qodn/video/upload/v1/hnjt2ekfoyguginqurcd.jpg)](https://res.cloudinary.com/dgnn8qodn/video/upload/v1/hnjt2ekfoyguginqurcd.mp4)
 
-<iframe
-  src="https://player.cloudinary.com/embed/?cloud_name=dgnn8qodn&public_id=hnjt2ekfoyguginqurcd&profile=cld-default"
-  width="640"
-  height="360" 
-  style="height: auto; width: 100%; aspect-ratio: 640 / 360;"
-  allow="autoplay; fullscreen; encrypted-media; picture-in-picture"
-  allowfullscreen
-  frameborder="0"
-></iframe>
 
 
 # PharmaInsight Analytics 🏥
