@@ -57,8 +57,6 @@ PharmaInsight Analytics is a comprehensive data analytics and disease prediction
 - **For Business Analytics**: Deep insights into medication sales patterns
 - **For Market Research**: Understanding regional medication preferences
 
-## Project Screenshots
-[Download or watch the tutorial video (demo.mp4)](demo.mp4)
 
 ## Future Enhancements
 - Real-time data integration
