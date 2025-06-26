@@ -1,5 +1,6 @@
 ## 🎥 Demo Video
-[![Watch Video](https://res.cloudinary.com/dgnn8qodn/video/upload/v1/hnjt2ekfoyguginqurcd.jpg)](https://res.cloudinary.com/dgnn8qodn/video/upload/v1/hnjt2ekfoyguginqurcd.mp4)
+
+[![Watch Video](https://res.cloudinary.com/dgnn8qodn/video/upload/q_auto,f_auto,w_800/v1/hnjt2ekfoyguginqurcd.jpg)](https://res.cloudinary.com/dgnn8qodn/video/upload/q_auto,f_auto,w_800,br_1000k/v1/hnjt2ekfoyguginqurcd.mp4)
 
 
 
